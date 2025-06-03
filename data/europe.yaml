@@ -20,6 +20,13 @@
   long: 5.479506
   description: Robotics/Embedded Systems Engineer
   link: https://adityakamath.github.io/blog
+- name: Aigro
+  type: company
+  lat: 51.5166222
+  long: 5.357408
+  link: www.aigro.nl
+  description: Autonomous farming technology
+  address: Hagelaar 25, 5684 NW, Best, Netherlands
 - name: Akcaabat Science High School
   type: school
   lat: 39.559112
@@ -411,6 +418,12 @@
   long: 21.786494
   address: Panepistimioupoli Patron, Rio
   link: http://lms.mech.upatras.gr
+- name: Loy van Beek
+  type: individual
+  lat: 51.5918096
+  long: 5.3245882
+  description: Robotics Software Engineer
+  link: http://l0y.nl
 - name: MASCOR Institute at University of Applied Sciences (FH Aachen)
   type: research institute
   lat: 50.761113
